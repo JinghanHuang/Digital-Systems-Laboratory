@@ -1,0 +1,132 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/ECE385/ECE385_FinalProject/simulation/modelsim
+vAltera_UP_PS2_Command_Out
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1559805850
+!i10b 1
+!s100 ZJZgiaVLTMlDHLbYHS>nN1
+IZaTW8G6I7D?4;:g];0`0D3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 mouse_interface_IP_sv_unit
+S1
+R0
+Z5 w1559687446
+Z6 8D:/ECE385/ECE385_FinalProject/mouse_interface_IP.sv
+Z7 FD:/ECE385/ECE385_FinalProject/mouse_interface_IP.sv
+L0 337
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1559805850.000000
+Z10 !s107 D:/ECE385/ECE385_FinalProject/mouse_interface_IP.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+D:/ECE385/ECE385_FinalProject|D:/ECE385/ECE385_FinalProject/mouse_interface_IP.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work +incdir+D:/ECE385/ECE385_FinalProject
+Z14 tCvgOpt 0
+n@altera_@u@p_@p@s2_@command_@out
+vAltera_UP_PS2_Data_In
+R1
+R2
+!i10b 1
+!s100 <HhO<?lQV=7Y86d_kOd>[3
+I8]`QVee6_cVE?oe[dY`kn0
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 611
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@altera_@u@p_@p@s2_@data_@in
+vMouse_interface
+R1
+R2
+!i10b 1
+!s100 To85>SmHXb:Kh``^]5>122
+IPN`H[2W20hMnCbRY_:YLM2
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 11
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@mouse_interface
+vvga_clk
+Z15 !s110 1559805845
+!i10b 1
+!s100 OGlLO8;N^^k^>BA7[_bgn1
+I:GSQnD@c3Qf8zmB4Tz65?2
+R3
+R0
+w1512855280
+8D:/ECE385/ECE385_FinalProject/vga_clk.v
+FD:/ECE385/ECE385_FinalProject/vga_clk.v
+L0 40
+R8
+r1
+!s85 0
+31
+!s108 1559805844.000000
+!s107 D:/ECE385/ECE385_FinalProject/vga_clk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ECE385/ECE385_FinalProject|D:/ECE385/ECE385_FinalProject/vga_clk.v|
+!i113 1
+Z16 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/ECE385/ECE385_FinalProject
+R14
+vvga_clk_altpll
+R15
+!i10b 1
+!s100 M:z4m=8?iG0fP6=5PXSTl1
+I[^>zSj<KcgcZo1LndVdl13
+R3
+R0
+w1555321704
+8D:/ECE385/ECE385_FinalProject/db/vga_clk_altpll.v
+FD:/ECE385/ECE385_FinalProject/db/vga_clk_altpll.v
+L0 29
+R8
+r1
+!s85 0
+31
+!s108 1559805845.000000
+!s107 D:/ECE385/ECE385_FinalProject/db/vga_clk_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/ECE385/ECE385_FinalProject/db|D:/ECE385/ECE385_FinalProject/db/vga_clk_altpll.v|
+!i113 1
+R16
+!s92 -vlog01compat -work work +incdir+D:/ECE385/ECE385_FinalProject/db
+R14
